@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!-- Background color (use solid color instead of ColorStateList) -->
+    <solid android:color="#BB86FC" />
+
+    <!-- Optional: Border for better contrast -->
+    <stroke
+        android:width="5dp"
+        android:color="@color/black" />
+
+    <!-- Optional: Subtle padding -->
+    <padding
+        android:bottom="2dp"
+        android:left="2dp"
+        android:right="2dp"
+        android:top="2dp" />
+
+</shape>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/h"
+        android:title="Chats" />
+
+    <item
+        android:id="@+id/nav_groups"
+        android:icon="@drawable/img_2"
+        android:title="Groups" />
+
+    <!-- ✅ Replaced Calls with Notes -->
+    <item
+        android:id="@+id/nav_notes"
+        android:icon="@drawable/note"
+    android:title="Notes" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/setting"
+        android:title="Settings" />
+
+</menu>
